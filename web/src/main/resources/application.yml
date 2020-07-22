@@ -5,8 +5,8 @@ log4j:
       wire: DEBUG
 
 client:
-  id: RgmLcqWcWH_hZRYynUmRNFuewUXWd6CkKX49b-BcXr8=
-  secret: SeHH5Jfg7q1IE3uhmgkX9yHnRJxp9kO4aM5ew-XFg8k=
+  id: v9jpk-nCoD7ZTnC5Q4J6Tz5rOFYDRsKBACTzBXYSmj0=
+  secret: qZ_8W9nULwjyIqYe_Yo_r-LENBH4zKKmFP8Tf255fns=
   redirectUri: http://localhost:4001/redirecting
   financialId: 0015800000jfwB4AAI
   state: ABC
